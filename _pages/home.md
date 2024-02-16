@@ -41,6 +41,15 @@ Please feel free to contact the organizers at [TBD].
 
 <div style="width: 100%">
 <ul>
+
+<div style="float: left; margin: 10px">
+<a href="https://personal.ntu.edu.sg/boan/">
+  <img src="assets/img/ba.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://personal.ntu.edu.sg/boan/"><b>Bo An</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>NTU</p></span>
+</div>
+
 <div style="float: left; margin: 10px">
 <a href="https://people.iiis.tsinghua.edu.cn/~huang/">
   <img src="assets/img/lh.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -50,19 +59,11 @@ Please feel free to contact the organizers at [TBD].
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="https://ling-pan.github.io/">
-  <img src="assets/img/lp.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://kangwooklee.com/aboutme/">
+  <img src="assets/img/kangwook_lee.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://ling-pan.github.io/"><b>Ling Pan</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>HKUST</p></span>
-</div>
-
-<div style="float: left; margin: 10px">
-<a href="https://personal.ntu.edu.sg/boan/">
-  <img src="assets/img/ba.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
-  </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://personal.ntu.edu.sg/boan/"><b>Bo An</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>NTU</p></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kangwooklee.com/aboutme/"><b>Kangwook Lee</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Wisconsin-Madison</p></span>
 </div>
 
 <div style="float: left; margin: 10px">
@@ -74,11 +75,11 @@ Please feel free to contact the organizers at [TBD].
 </div>
 
 <div style="float: left; margin: 10px">
-<a href="https://kangwooklee.com/aboutme/">
-  <img src="assets/img/kangwook_lee.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://ling-pan.github.io/">
+  <img src="assets/img/lp.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://kangwooklee.com/aboutme/"><b>Kangwook Lee</b></a></span>
-  <span style="display: block; margin-top: -10px; text-align: center;"><p>Wisconsin-Madison</p></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://ling-pan.github.io/"><b>Ling Pan</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>HKUST</p></span>
 </div>
 
 <div style="float: left; margin: 10px">
